@@ -1,0 +1,220 @@
+/*
+* @Author: Administrator
+* @Date:   2018-05-01 18:23:54
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-05-10 16:41:45
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	display: block;
+}
+.bigBox{
+	width: 1226px;
+	height: 672px;
+	background-color: #F5F5F5;
+	margin: 0 auto;
+}
+.smallBox{
+	width: 234px;
+	height: 300px;
+	background-color: #FEFEFE;
+	float:left;
+	margin-left: 14px;
+	margin-bottom: 14px;
+	text-align: center;
+}
+.ass{
+	width: 150px;
+	height: 150px;
+	display: block;
+	margin: 0 auto;
+	padding-top: 34px;
+	padding-bottom: 20px;
+}
+h1{
+	color: #333;
+	font-size: 14px;
+    font-weight: 400;
+}
+h2{
+	margin: 0 10px 10px 10px;
+	height: 18px;
+    font-size: 12px;
+    color: #b0b0b0;
+    font-weight: normal;
+}
+h3{
+	margin: 0 10px 10px 10px;
+    color: #ff6700;
+    font-weight: normal;
+    font-size: 14px;
+}
+del{
+	color:#B0B0B0;
+}
+.smallBox1{
+	margin-left: 0px;
+}
+.smallBox2{
+	margin-bottom: 0px;
+}
+.smallBox3{
+	background-color: #F5F5F5;
+}
+.toSmall{
+	width: 234px;
+	height: 143px;
+	background-color:  #FEFEFE;
+	margin-bottom: 14px;
+}
+.toSmall1{
+	margin-bottom: 0px;
+}
+.photo{
+	display: block;
+	width: 80px;
+	height: 80px;
+	margin:0 auto;
+	margin-top: 50px;
+	float: right;
+	margin-right: 30px;
+
+}
+h4{
+    color: #333;
+	font-size: 14px;
+    font-weight: 400;
+    float: left;
+    margin-left: 30px;
+    padding-top: 50px;
+}
+h5{
+	width: 94px;
+	height: 21px;
+	font-size: 14px;
+	color: #ff6700;
+	font-weight: normal;
+}
+.ziTi{
+	width: 1226px;
+	height: 58px;
+}
+.ziTi1{
+    font-size: 22px;
+    font-weight: 200;
+    line-height: 58px;
+    color: #333;
+    float: left;
+}
+.ziTi2{
+	margin: 0;
+	width: 326px;
+	height: 42px;
+	padding: 16px 0 0;
+	font-size: 16px;
+	color: #333;
+	float: right;
+}
+.hanZi{
+	float: left;
+	width: 32px;
+	height: 26px;
+	margin: 0 0 0 30px;
+	border-bottom: 2px;
+}
+.hanZi1{
+	width: 48px;
+	height: 26px;
+}
+.hanZi2{
+	color: #ff6700;
+    border-bottom: 2px solid #ff6700;
+}
+/* .zhiNeng .smallBox{
+	display: block;
+	width: 234px;
+	height: 300px;
+	background-color: #FEFEFE;
+	float:left;
+	margin-left: 14px;
+	margin-bottom: 14px;
+	text-align: center;
+}
+.zhiNeng .smallBox .ass{
+	width: 150px;
+	height: 150px;
+	display: block;
+	margin: 0 auto;
+	padding-top: 34px;
+	padding-bottom: 20px;
+}
+.zhiNeng .smallBox h1 a{
+	color: #333;
+	font-size: 14px;
+    font-weight: 400;
+}
+.zhiNeng .smallBox h2{
+	margin: 0 10px 10px 10px;
+	height: 18px;
+    font-size: 12px;
+    color: #b0b0b0;
+    font-weight: normal;
+}
+.zhiNeng .smallBox h3{
+	margin: 0 10px 10px 10px;
+    color: #ff6700;
+    font-weight: normal;
+    font-size: 14px;
+}
+.zhiNeng .smallBox h3 del{
+	color:#B0B0B0;
+}
+.zhiNeng .smallBox1{
+	margin-left: 0px;
+}
+.zhiNeng .smallBox2{
+	margin-bottom: 0px;
+}
+.zhiNeng .smallBox3{
+	background-color: #F5F5F5;
+}
+.zhiNeng .smallBox .toSmall{
+	width: 234px;
+	height: 143px;
+	background-color:  #FEFEFE;
+	margin-bottom: 14px;
+}
+.zhiNeng .smallBox .toSmall1{
+	margin-bottom: 0px;
+}
+.zhiNeng .smallBox .photo{
+	display: block;
+	width: 80px;
+	height: 80px;
+	margin:0 auto;
+	margin-top: 50px;
+	float: right;
+	margin-right: 30px;
+
+}
+.zhiNeng .smallBox .toSmall h4{
+    color: #333;
+	font-size: 14px;
+    font-weight: 400;
+    float: left;
+    margin-left: 30px;
+    padding-top: 50px;
+}
+.zhiNeng .smallBox .toSmall h5{
+	width: 94px;
+	height: 21px;
+	font-size: 14px;
+	color: #ff6700;
+	font-weight: normal; */

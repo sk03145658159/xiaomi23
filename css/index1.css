@@ -1,0 +1,140 @@
+/*
+* @Author: Administrator
+* @Date:   2018-04-24 21:49:12
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-05-05 11:18:56
+*/
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	display: block;
+}
+.jiadian{
+	width: 1226px;
+	height: 672px;
+	margin:0 auto;
+	background-color: #F5F5F5;
+}
+.box{
+	display:block;
+	width: 234px;
+	height: 300px;
+	float: left;
+	margin: 0 0 14px 14px;
+	text-align: center;
+	background-color:#FEFEFE;
+}
+.photo{
+	display: block;
+	width: 150px;
+	height: 150px;
+	padding-top: 34px;
+	padding-bottom: 20px;
+	margin: 0 auto;
+}
+.box h1{
+	color: #333;
+	font-size: 14px;
+    font-weight: 400;
+}
+.box h2{
+	margin: 0 10px 10px;
+    height: 18px;
+    font-size: 12px;
+    color: #b0b0b0;
+    font-weight: normal;
+}
+.box h3{
+	margin: 0 10px 10px;
+	color: #ff6700;
+	font-weight:normal;
+	font-size: 13px;
+}
+del{
+	color: #B0B0B0;
+}
+.box1{
+	margin-left: 0;
+}
+.box2{
+	margin-bottom: 0px;
+}
+.box3{
+	background-color: #F5F5F5;
+}
+.smallbox{
+	width: 234px;
+	height: 143px;
+	margin-bottom: 14px;
+	background-color: #FFFFFF;
+}
+.smallphoto{
+	display: block;
+	width: 80px;
+	height: 80px;
+	margin:0 auto;
+	margin-top: 50px;
+	float: right;
+	margin-right: 30px;
+
+}
+.smallbox h4{
+	color: #333;
+	font-size: 14px;
+    font-weight: 400;
+    float: left;
+    margin-left: 30px;
+    padding-top: 50px;
+}
+.smallbox h5{
+	width: 94px;
+	height: 21px;
+	font-size: 14px;
+	color: #ff6700;
+	font-weight: normal;
+}
+.smallbox1{
+	margin-bottom: 0;
+}
+.title{
+	width: 1226px;
+	height: 58px;
+}
+.title h1{
+	width: 200px;
+	height: 58px;
+	line-height: 58px;
+	font-size: 22px;
+    font-weight: 200;
+    color: #333;
+    float: left;
+}
+.option{
+	width: 280px;
+	height: 42px;
+	padding: 16px 0 0 0;
+	float: right;
+}
+.ziti{
+	width: 32px;
+	height: 26px;
+	margin: 0 0 0 30px;
+	font-size: 16px;
+	float: left;
+	cursor: pointer;
+}
+.ziti:hover{
+	color: #FF6700;
+	border-bottom: 2px solid;
+	padding-bottom: 2px;
+}
+.ziti2{
+	width: 64px;
+	height: 26px;
+}

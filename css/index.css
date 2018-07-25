@@ -1,0 +1,108 @@
+/*
+* @Author: Administrator
+* @Date:   2018-04-22 15:24:01
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-05-02 21:25:54
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	/* 清楚列表样式 */
+}
+a{
+	text-decoration: none;
+	/* 清楚a连接下划线 */
+}
+img{
+	display: block;
+	/* 图片转化为块元素 */
+}
+body{
+	background-color:#FFFFFF ;
+}
+.phone{
+	width: 1226px;
+	height: 672px;
+	background:#F5F5F5;
+	margin: 0 auto;
+}
+.phone .title{
+	width: 100%;
+	height: 58px;
+	background: #F5F5F5;
+}
+.phone .title h1{
+	width: 200px;
+	height: 58px;
+	background:#F5F5F5;
+	float: left;
+    font-size: 22px;
+    font-weight: 200;
+    line-height: 58px;
+    color: #333; 
+}
+.phone .title .more{
+	width: 200px;
+	height: 58px;
+	background:#F5F5F5;
+	float: right;
+	font-size: 16px;
+    line-height: 58px;
+    color: #424242;
+}
+.phone .con{
+	width: 100%;
+	height: 614px;
+	background: #F5F5F5;
+}
+.phone .con .box{
+	width: 234px;
+	height: 300px;
+	background: #FFFFFF;
+	float: left;
+	margin-left: 14px;
+	margin-bottom: 14px;
+	text-align: center;
+}
+.phone .con .box .bigphone{
+	display:block;
+	width: 160px;
+	height: 160px;
+	margin:0 auto;
+	margin-top: 20px;
+}
+.phone .con .box h2{
+	font-size: 14px;
+    font-weight:400;
+    color: #333;
+    margin-top: 17px;
+    
+}
+.phone .con .box h3{
+	font-size: 12px;
+	color: #b0b0b0;
+	font-weight: normal;
+	margin: 0 10px 10px;
+	height: 18px;
+}
+.phone .con .box h4{
+	color: #ff6700;
+	margin: 0 10px 14px;
+	font-weight: normal;
+	font-size: 14px;
+}
+del{
+	color: #B0B0B0;
+}
+.phone .con .box1{
+	width: 234px;
+	height: 614px;
+	margin: 0;
+}
+.phone .con .box1 a{
+	display: block;
+}
+.phone .con .box2{
+	margin-bottom:0;
+}

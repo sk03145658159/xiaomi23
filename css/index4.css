@@ -1,0 +1,29 @@
+/*
+* @Author: Administrator
+* @Date:   2018-05-06 10:07:32
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-05-06 11:14:03
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	display: block;
+}
+/* .box{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	transition: all 1s;
+}
+.box:hover{
+	width: 500px;
+	height: 500px;
+	background-color: yellow;
+	transform: translate(100px, 100px);
+} */

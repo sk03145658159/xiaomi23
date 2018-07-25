@@ -1,0 +1,51 @@
+/*
+* @Author: Administrator
+* @Date:   2018-05-12 10:34:05
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-05-13 09:11:44
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	display: block;
+}
+.box{
+		width: 200px;
+		height: 100px;
+		border: 1px solid black;
+		border-bottom: 100px solid black;
+		margin: 0 auto;
+		border-radius: 50%;
+		transition: all 1s;
+}
+.box:hover{
+	transform: rotate(180deg);
+}
+.box::before{
+	content: "";
+	display: block;
+	width: 50px;
+	height: 50px;
+	background-color: #fff;
+	border: 25px solid black;
+	border-radius: 50%;
+	float: left;
+	margin-top: 50px;
+}
+.box::after{
+	content: "";
+	display: block;
+	width: 50px;
+	height: 50px;
+	background-color: black;
+	border: 25px solid #fff;
+	border-radius: 50%;
+	float: right;
+	margin-top: 50px;
+}
